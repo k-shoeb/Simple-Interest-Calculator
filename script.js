@@ -20,6 +20,7 @@ function compute()
     /* Alert box for principal amount <= 0 */
     else{  
         alert("Please enter a Positive No.");
+        document.getElementById("principal").focus();
     }
 }
         
