@@ -1,4 +1,4 @@
-body {background-color:tan; font-family:arial;}
+body {background-color:tan; font-family:arial;
      display:flex;
      align-items: center;
      justify-content: center;
@@ -13,7 +13,7 @@ h1{font-family:verdana;
   color:#d7420b;
 }
 /*curve corners of the boxes*/
-.curvCornr{
+.curveCorner{
 border:1px solid black;
 border-radius: 5px;
 }
